@@ -27,15 +27,10 @@
 ![cadastro-casos1](https://user-images.githubusercontent.com/43690080/77687225-dba6f000-6f7c-11ea-9172-2224d9edacff.png)
 
 
-## Exemplo de uso
-
-Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
-
-_Para mais exemplos, consulte a [Wiki][wiki]._ 
-
 ## Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+ - Inicie o projet com YARN para baixar todas as dependencias utilziadas no desenvolvimento.
+ - Utilize o YARN START para iniciar o servidor e testar a aplicação.
 
 ```js
 yarn // Instalaram todas as dependencias usadas no projeto
