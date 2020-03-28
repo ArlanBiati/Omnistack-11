@@ -1,13 +1,13 @@
-<h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="readme/bethehero.svg" width="250px" />
-</h1>
+
+<div style="text-align:center">
+	<img src="https://user-images.githubusercontent.com/43690080/77836404-9decc780-7134-11ea-85ca-67a199e4d927.png" /></div>
 
 
 <h4 align="center"> 
 	🚀 Semana OmniStack 11.0
 </h4>
 <h4 align="center"> 
-  🚀 Aplicativo desenvolvido durante a semana OmniStack 11 pela Rocketseat 🚀
+	🚀 Aplicativo desenvolvido durante a semana OmniStack 11 pela Rocketseat 🚀
 </h4>
 
 
