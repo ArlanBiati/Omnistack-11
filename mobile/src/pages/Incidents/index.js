@@ -14,6 +14,7 @@ export default function Incidents() {
 
   const [incidents, setIncidents] = useState([])
   const [total, setTotal] = useState(0)
+
   const [page, setPage] = useState(1)
   const [loading, setLoading] = useState(false)
 
@@ -80,7 +81,9 @@ export default function Incidents() {
             <Text style={styles.incidentValue}>{incident.title}</Text>
 
             <Text style={styles.incidentProperty}>ONG:</Text>
-            <Text style={styles.incidentValue}>{Intl.NumberFormat('pt-BR', {style: 'currency', currency: 'BRL'}).format(incident.value)}</Text>
+            <Text style={styles.incidentValue}>
+              {Intl.NumberFormat('pt-BR', {style: 'currency', currency: 'BRL'}).format(incident.value)}
+            </Text>
 
             <TouchableOpacity 
               style={styles.detailsButton} 
