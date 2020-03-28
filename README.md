@@ -1,6 +1,10 @@
+<center>
+	<img src="https://user-images.githubusercontent.com/43690080/77836404-9decc780-7134-11ea-85ca-67a199e4d927.png" /></center>
 
-<div style="text-align:center">
-	<img src="https://user-images.githubusercontent.com/43690080/77836404-9decc780-7134-11ea-85ca-67a199e4d927.png" /></div>
+
+<center> 
+	<img src="https://user-images.githubusercontent.com/43690080/77836650-c1187680-7136-11ea-89a6-c4fba01cab86.jpg" />
+</center>
 
 
 <h4 align="center"> 
