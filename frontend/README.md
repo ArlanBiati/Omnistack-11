@@ -17,7 +17,7 @@
  - Utilize o YARN START para iniciar o servidor e testar a aplicação.
 
 ```js
-yarn // Instalaram todas as dependencias usadas no backend
+yarn // Instalaram todas as dependencias usadas no frontend
 yarn start // Inicia o projeto
 ```
 

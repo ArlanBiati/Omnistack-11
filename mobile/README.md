@@ -18,7 +18,7 @@
 
 ```js
 npm install -g expo-cli
-yarn // Instalaram todas as dependencias usadas no backend
+yarn // Instalaram todas as dependencias usadas no mobile
 yarn start // Inicia o projeto
 ```
 
