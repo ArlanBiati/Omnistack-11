@@ -17,7 +17,6 @@
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ArlanBiati/Omnistack-11">	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArlanBiati/Omnistack-11">
 	
   <a href="https://www.linkedin.com/in/arlan-biati/">
     <img alt="Made by ArlanBiati" src="https://img.shields.io/badge/made%20by-ArlanBiati-%2304D361">
@@ -25,10 +24,6 @@
   
   <a href="https://github.com/ArlanBiati/Omnistack-11/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ArlanBiati/Omnistack-11">
-  </a>
-  
-  <a href="https://github.com/ArlanBiati/Omnistack-11">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/ArlanBiati/Omnistack-11>
   </a>
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
