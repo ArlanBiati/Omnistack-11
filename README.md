@@ -45,9 +45,9 @@
 
 ## 💻 Project
 
-Este aplicação ira conectar pessoas que tem vontade de ajudar alguma instituição, sem fins lucrativos como por exemplo ONGS, de forma monetária.
+Esta aplicação conectará pessoas que tem vontade de ajudar alguma instituição, sem fins lucrativos como por exemplo ONGS, de forma monetária.
   
-  Muitas vezes estas instituições necessitam de valores para tratar de algum caso específico e existem pessoas que tem disponibilidade para ajuda-las
+  Muitas vezes estas instituições necessitam de valores para tratar de algum caso específico e existem pessoas que tem disponibilidade para ajuda-las.
 
 ![aplicacao-mobile](https://user-images.githubusercontent.com/43690080/77836213-0175f580-7133-11ea-960f-099cb9db40a3.png)
 
